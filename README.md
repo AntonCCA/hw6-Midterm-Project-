@@ -1,3 +1,4 @@
 -Midterm-Project-
-Bubble popping game, which allows player to draw bubbles on the canvas via mouse dragged function 
-and pop the bubbles using mouse pressed which will release smaller ellipse at random to pop the bubbles.
+Bubble bouncing game which allows the player to add difficulty by pressing the space button  to add bubbles or make the game easier by 
+clicking on any bubble. 
+Catch the bubbles with the rectangle to increase your score.
